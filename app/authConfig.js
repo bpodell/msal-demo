@@ -18,7 +18,6 @@ const msalConfig = {
   // Add here scopes for id token to be used at MS Identity Platform endpoints.
   const loginRequest = {
     scopes: ['openid'],
-    // authority: 'https://navigatorcre.b2clogin.com/tfp/navigatorcre.onmicrosoft.com/B2C_1_SuSi/v2.0'
   };
 
   // Add here scopes for access token to be used at MS Graph API endpoints.
